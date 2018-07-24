@@ -1,0 +1,23 @@
+{
+  "name": "sum",
+  "version": "1.0.0",
+  "description": "Take an array of numbers and return the sum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam17/sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam17/sum/issues"
+  },
+  "homepage": "https://github.com/adam17/sum#readme",
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "range": "github:adam17/range"
+  }
+}
